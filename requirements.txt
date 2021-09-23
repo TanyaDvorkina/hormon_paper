@@ -1,0 +1,4 @@
+biopython
+python-edlib
+networkx
+python-graphviz
